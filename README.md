@@ -17,7 +17,7 @@ git init
 Run the following command in the command promt to clone this repository
 
 ```
-https://github.com/shivamshinde123/RAG-Chatbot-using-Ollama-and-Langchain.git
+git clone https://github.com/shivamshinde123/RAG-Chatbot-using-Ollama-and-Langchain.git
 ```
 
 **Step 3:**
@@ -47,7 +47,7 @@ Embedding Model:
 ollama run granite-embedding:30m
 ```
 
-**Step 4:**
+**Step 6:**
 
 Run the following command in the command prompt to run the chatbot app
 
