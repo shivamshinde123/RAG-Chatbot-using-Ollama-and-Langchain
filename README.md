@@ -17,7 +17,7 @@ git init
 Run the following command in the command promt to clone this repository
 
 ```
-https://github.com/shivamshinde123/RAG_Chatbot_Using_Langchain_Openai.git
+https://github.com/shivamshinde123/RAG-Chatbot-using-Ollama-and-Langchain.git
 ```
 
 **Step 3:**
